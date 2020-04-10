@@ -1,0 +1,38 @@
+.progressbar {
+	background-color: #333;
+	height: 5px;
+	margin: 2px;
+}
+.col-sm-6 {
+	border: 1px solid #666;
+	border-radius: 10px;
+}
+.fa-arrow-up {
+	color: #393;
+}
+.fa-arrow-down {
+	color: #933;
+}
+hr {
+	border-color: #ccc;
+}
+.icon-sm {
+	width: 24px;
+	margin-right: 2px;
+}
+.icon-md {
+	width: 48px;
+	margin: 4px;
+}
+
+/*.custom-control.custom-switch input[type=checkbox]::before,
+.custom-control.custom-switch input[type=checkbox]::after {
+	border-color: red !important;
+	background-color: red !important;
+}
+
+.custom-control.custom-switch input[type=checkbox]:checked::before,
+.custom-control.custom-switch input[type=checkbox]:checked::after {
+	border-color: orange !important;
+	background-color: orange !important;	
+}*/
